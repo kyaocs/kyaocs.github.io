@@ -1,6 +1,6 @@
-![image](https://github.com/kyaocs/kyaocs.github.io/assets/40717375/eee2d941-a79a-49fe-9d56-7408d374204f)---
+---
 permalink: /
-title: "Kai Yao's Homepage"
+title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
