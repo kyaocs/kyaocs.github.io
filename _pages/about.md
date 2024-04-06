@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,6 +13,11 @@ I am currently a lecturer in the School of Computer Science at Sichuan Normal Un
 Research Interests
 ======
 Graph Data Mining, Graph Algorithms, Cohesive Subgraph Computation
+
+Working Experience
+======
+2024.01 - now
+
 
 Selected Publications
 ======
