@@ -11,7 +11,9 @@ I am currently a lecturer in the School of Computer Science at Sichuan Normal Un
 
 My research primarily revolves around graph data mining and graph algorithms. I have published more than ten academic papers in top-tier conferences and journals in the field of computer databases, including VLDB, ICDE, SIGMOD, VLDBJ, and TKDE. Additionally, I serve as a reviewer and program committee member for internationally renowned academic conferences and journals such as TKDE, CIKM, and DASFAA.
 
-<font color="red"> 我是红色字体 </font>
+*Welcome enthusiastic students interested in research to join my research team. I will personally mentor students in conducting high-quality academic research and provide opportunities for international exchange and further studies. Interested students please contact me (along with your resume and transcripts) via email at kyaocs@outlook.com.*
+
+<font color=red>我是红色</font>
 
 Research Interests
 ======
@@ -20,18 +22,18 @@ Graph Data Mining, Graph Algorithms, Cohesive Subgraph Computation
 
 Selected Publications
 ======
-- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, [Identifying Similar-Bicliques in Bipartite Graphs](kyaocs.github.io/files/VLDBJ24.pdf). The VLDB Journal (VLDBJ), 2024. (**CCF-A**, **Top-tier journal paper**)
+- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. The VLDB Journal (VLDBJ), 2024. (**CCF-A**, **Top-tier journal paper**) ([paper](kyaocs.github.io/files/VLDBJ24.pdf), [code](https://github.com/kyaocs/Similar-Biclique-Idx))
 - Lijun Chang, **Kai Yao**, Maximum k-Plex Computation: Theory and Practice. ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024. (**CCF-A**, **Top-tier conference paper**)
-- **Kai Yao**, Lijun Chang, Lu Qin, Identifying Large Structural Balanced Cliques in Signed Graphs. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. (**CCF-A**, **Top-tier journal paper**)
-- Tran Ba Trung, Lijun Chang, Nguyen Long, **Kai Yao**, Verification-Free Approaches to Local Densest Subgraph Discovery. IEEE International Conference on Data Engineering (ICDE), pages 1-13, 2023. (**CCF-A**, **Top-tier conference paper**)
-- **Kai Yao**, Xin Yang, Lijun Chang, On Directed Densest Subgraph Detection. Australasian Database Conference (ADC), 2023.
-- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. Proceedings of the VLDB Endowment (PVLDB), 15(11): 3085-3097, 2022. (**CCF-A**, **Top-tier conference paper**)
-- **Kai Yao**, Lijun Chang, Lu Qin, Computing Maximum Structural Balanced Cliques in Signed Graphs. IEEE International Conference on Data Engineering (ICDE), pages 1004-1016, 2022. (**CCF-A**, **Top-tier conference paper**)
-- **Kai Yao**, Lijun Chang, Efficient Size-Bounded Community Search over Large Networks. Proceedings of the VLDB Endowment (PVLDB), 14(8): 1441-1453, 2021. (**CCF-A**, **Top-tier conference paper**)
-- Lijun Chang, Xing Feng, **Kai Yao**, Lu Qin, Accelerating Graph Similarity Search via Efficient GED Computation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. (**CCF-A**, **Top-tier journal paper**)
-- **Kai Yao**, Lefteris Ntaflos, Dimitris Papadias, Geo-Social Density-Based Clustering on Location Based Social Networks. International Symposium on Spatial and Temporal Databases (SSTD), pages 110-119, 2019. (**CCF-C**)
+- **Kai Yao**, Lijun Chang, Lu Qin, Identifying Large Structural Balanced Cliques in Signed Graphs. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. (**CCF-A**, **Top-tier journal paper**) ([paper](kyaocs.github.io/files/TKDE24.pdf), [code](https://github.com/kyaocs/BCE))
+- Tran Ba Trung, Lijun Chang, Nguyen Long, **Kai Yao**, Verification-Free Approaches to Local Densest Subgraph Discovery. IEEE International Conference on Data Engineering (ICDE), pages 1-13, 2023. (**CCF-A**, **Top-tier conference paper**) ([paper](kyaocs.github.io/files/ICDE-LDS-2023.pdf))
+- **Kai Yao**, Xin Yang, Lijun Chang, On Directed Densest Subgraph Detection. Australasian Database Conference (ADC), 2023. ([paper](kyaocs.github.io/files/ADC-2023.pdf), [code](https://github.com/kyaocs/DDS))
+- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. Proceedings of the VLDB Endowment (PVLDB), 15(11): 3085-3097, 2022. (**CCF-A**, **Top-tier conference paper**) ([paper](kyaocs.github.io/files/VLDB22.pdf), [code](https://github.com/kyaocs/Similar-Biclique))
+- **Kai Yao**, Lijun Chang, Lu Qin, Computing Maximum Structural Balanced Cliques in Signed Graphs. IEEE International Conference on Data Engineering (ICDE), pages 1004-1016, 2022. (**CCF-A**, **Top-tier conference paper**) ([paper](kyaocs.github.io/files/ICDE22.pdf), [code](https://github.com/kyaocs/MSBC))
+- **Kai Yao**, Lijun Chang, Efficient Size-Bounded Community Search over Large Networks. Proceedings of the VLDB Endowment (PVLDB), 14(8): 1441-1453, 2021. (**CCF-A**, **Top-tier conference paper**) ([paper](kyaocs.github.io/files/VLDB21.pdf))
+- Lijun Chang, Xing Feng, **Kai Yao**, Lu Qin, Accelerating Graph Similarity Search via Efficient GED Computation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. (**CCF-A**, **Top-tier journal paper**) ([paper](kyaocs.github.io/files/tkde-ged-2022.pdf))
+- **Kai Yao**, Lefteris Ntaflos, Dimitris Papadias, Geo-Social Density-Based Clustering on Location Based Social Networks. International Symposium on Spatial and Temporal Databases (SSTD), pages 110-119, 2019. (**CCF-C**) ([paper](kyaocs.github.io/files/SSTD2019.pdf))
 - Hermann B. Ekomie, **Kai Yao**, Jianjun Li, Guohui Li, Group Top-k Spatial Keyword Query Processing in Road Networks. International Conference on Database and Expert Systems Applications (DEXA), pages 395-408, 2017. (**CCF-C**)
-- **Kai Yao**, Jianjun Li, Guohui Li, Changyin Luo, Efficient Group Top-k Spatial Keyword Query Processing. Asia-Pacific Web Conference (APWeb), pages 153-165, 2016. (**CCF-C**)
+- **Kai Yao**, Jianjun Li, Guohui Li, Changyin Luo, Efficient Group Top-k Spatial Keyword Query Processing. Asia-Pacific Web Conference (APWeb), pages 153-165, 2016. (**CCF-C**) ([paper](kyaocs.github.io/files/APWeb16.pdf))
 
 Academic Activities
 ======
