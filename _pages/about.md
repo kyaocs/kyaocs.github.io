@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a lecturer in the School of Computer Science at Sichuan Normal University. I joined Sichuan Normal University in January 2024. Prior to that, I worked as a Postdoc at the University of Sydney from March 2023 to December 2023. I obtained my Ph.D. degree from the University of Sydney in March 2023 under the supervision of [Prof. Lijun Chang](https://lijunchang.github.io/index.html). My research primarily revolves around graph data mining and graph algorithms. I have published more than ten academic papers in top-tier conferences and journals in the field of computer databases, including VLDB, ICDE, SIGMOD, VLDBJ, and TKDE. Additionally, I serve as a reviewer and program committee member for internationally renowned academic conferences and journals such as TKDE, CIKM, and DASFAA.
+I am currently a lecturer in the School of Computer Science at Sichuan Normal University. I joined Sichuan Normal University in January 2024. Prior to that, I worked as a Postdoc at the University of Sydney from March 2023 to December 2023. I obtained my Ph.D. degree from the University of Sydney in March 2023 under the supervision of [Prof. Lijun Chang](https://lijunchang.github.io/index.html). 
+
+My research primarily revolves around graph data mining and graph algorithms. I have published more than ten academic papers in top-tier conferences and journals in the field of computer databases, including VLDB, ICDE, SIGMOD, VLDBJ, and TKDE. Additionally, I serve as a reviewer and program committee member for internationally renowned academic conferences and journals such as TKDE, CIKM, and DASFAA.
 
 <font color=red>Welcome enthusiastic students interested in research to join my research team.</font> I will personally mentor students in conducting high-quality academic research and provide opportunities for international exchange and further studies. Interested students please contact me (along with your resume and transcripts) via email at kyaocs@outlook.com.
-
-我是红色
 
 Research Interests
 ======
