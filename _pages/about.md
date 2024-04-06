@@ -14,25 +14,21 @@ Research Interests
 ======
 Graph Data Mining, Graph Algorithms, Cohesive Subgraph Computation
 
-Working Experience
-======
-2024.01 - now
-
 
 Selected Publications
 ======
-- Kai Yao, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. The VLDB Journal (VLDBJ), 2024.
-- Lijun Chang, Kai Yao, Maximum k-Plex Computation: Theory and Practice. ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024.
-- Kai Yao, Lijun Chang, Lu Qin, Identifying Large Structural Balanced Cliques in Signed Graphs. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
-- Tran Ba Trung, Lijun Chang, Nguyen Long, Kai Yao, Verification-Free Approaches to Local Densest Subgraph Discovery. IEEE International Conference on Data Engineering (ICDE), pages 1-13, 2023.
-- Kai Yao, Xin Yang, Lijun Chang, On Directed Densest Subgraph Detection. Australasian Database Conference (ADC), 2023.
-- Kai Yao, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. Proceedings of the VLDB Endowment (PVLDB), 15(11): 3085-3097, 2022.
-- Kai Yao, Lijun Chang, Lu Qin, Computing Maximum Structural Balanced Cliques in Signed Graphs. IEEE International Conference on Data Engineering (ICDE), pages 1004-1016, 2022.
-- Kai Yao, Lijun Chang, Efficient Size-Bounded Community Search over Large Networks. Proceedings of the VLDB Endowment (PVLDB), 14(8): 1441-1453, 2021.
-- Lijun Chang, Xing Feng, Kai Yao, Lu Qin, Accelerating Graph Similarity Search via Efficient GED Computation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021.
-- Kai Yao, Lefteris Ntaflos, Dimitris Papadias, Geo-Social Density-Based Clustering on Location Based Social Networks. International Symposium on Spatial and Temporal Databases (SSTD), pages 110-119, 2019.
-- Hermann B. Ekomie, Kai Yao, Jianjun Li, Guohui Li, Group Top-k Spatial Keyword Query Processing in Road Networks. International Conference on Database and Expert Systems Applications (DEXA), pages 395-408, 2017.
-- Kai Yao, Jianjun Li, Guohui Li, Changyin Luo, Efficient Group Top-k Spatial Keyword Query Processing. Asia-Pacific Web Conference (APWeb), pages 153-165, 2016.
+- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. The VLDB Journal (VLDBJ), 2024.
+- Lijun Chang, **Kai Yao**, Maximum k-Plex Computation: Theory and Practice. ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024.
+- **Kai Yao**, Lijun Chang, Lu Qin, Identifying Large Structural Balanced Cliques in Signed Graphs. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
+- Tran Ba Trung, Lijun Chang, Nguyen Long, **Kai Yao**, Verification-Free Approaches to Local Densest Subgraph Discovery. IEEE International Conference on Data Engineering (ICDE), pages 1-13, 2023.
+- **Kai Yao**, Xin Yang, Lijun Chang, On Directed Densest Subgraph Detection. Australasian Database Conference (ADC), 2023.
+- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. Proceedings of the VLDB Endowment (PVLDB), 15(11): 3085-3097, 2022.
+- **Kai Yao**, Lijun Chang, Lu Qin, Computing Maximum Structural Balanced Cliques in Signed Graphs. IEEE International Conference on Data Engineering (ICDE), pages 1004-1016, 2022.
+- **Kai Yao**, Lijun Chang, Efficient Size-Bounded Community Search over Large Networks. Proceedings of the VLDB Endowment (PVLDB), 14(8): 1441-1453, 2021.
+- Lijun Chang, Xing Feng, **Kai Yao**, Lu Qin, Accelerating Graph Similarity Search via Efficient GED Computation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021.
+- **Kai Yao**, Lefteris Ntaflos, Dimitris Papadias, Geo-Social Density-Based Clustering on Location Based Social Networks. International Symposium on Spatial and Temporal Databases (SSTD), pages 110-119, 2019.
+- Hermann B. Ekomie, **Kai Yao**, Jianjun Li, Guohui Li, Group Top-k Spatial Keyword Query Processing in Road Networks. International Conference on Database and Expert Systems Applications (DEXA), pages 395-408, 2017.
+- **Kai Yao**, Jianjun Li, Guohui Li, Changyin Luo, Efficient Group Top-k Spatial Keyword Query Processing. Asia-Pacific Web Conference (APWeb), pages 153-165, 2016.
 
 Academic Activities
 ======
