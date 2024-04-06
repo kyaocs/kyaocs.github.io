@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a lecturer in the School of Computer Science at Sichuan Normal University. I joined Sichuan Normal University in January 2024. Prior to that, I worked as a Postdoc at the University of Sydney from March 2023 to December 2023. I obtained my Ph.D. degree from the University of Sydney in March 2023 under the supervision of [Prof. Lijun Chang](https://lijunchang.github.io/index.html). 
 
-My research interests are mainly graph data mining and graph algorithms. I have published more than ten academic papers in top-tier conferences and journals in the field of computer databases, including VLDB, ICDE, SIGMOD, VLDBJ, and TKDE. Additionally, I serve as a reviewer and program committee member for internationally renowned academic conferences and journals such as TKDE, CIKM, and DASFAA.
+My research primarily revolves around graph data mining and graph algorithms. I have published more than ten academic papers in top-tier conferences and journals in the field of computer databases, including VLDB, ICDE, SIGMOD, VLDBJ, and TKDE. Additionally, I serve as a reviewer and program committee member for internationally renowned academic conferences and journals such as TKDE, CIKM, and DASFAA.
 
 <font color="red"> 我是红色字体 </font>
 
@@ -20,7 +20,7 @@ Graph Data Mining, Graph Algorithms, Cohesive Subgraph Computation
 
 Selected Publications
 ======
-- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. The VLDB Journal (VLDBJ), 2024. (**CCF-A**, **Top-tier journal paper**)
+- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, [Identifying Similar-Bicliques in Bipartite Graphs](kyaocs.github.io/files/VLDBJ24.pdf). The VLDB Journal (VLDBJ), 2024. (**CCF-A**, **Top-tier journal paper**)
 - Lijun Chang, **Kai Yao**, Maximum k-Plex Computation: Theory and Practice. ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024. (**CCF-A**, **Top-tier conference paper**)
 - **Kai Yao**, Lijun Chang, Lu Qin, Identifying Large Structural Balanced Cliques in Signed Graphs. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. (**CCF-A**, **Top-tier journal paper**)
 - Tran Ba Trung, Lijun Chang, Nguyen Long, **Kai Yao**, Verification-Free Approaches to Local Densest Subgraph Discovery. IEEE International Conference on Data Engineering (ICDE), pages 1-13, 2023. (**CCF-A**, **Top-tier conference paper**)
