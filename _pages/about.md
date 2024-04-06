@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a lecturer in the School of Computer Science at Sichuan Normal University. I joined Sichuan Normal University in January 2024. Prior to that, I worked as a Postdoc at the University of Sydney from March 2023 to December 2023. I obtained my Ph.D. degree from the same school in March 2023 under the supervision of [Prof. Lijun Chang](https://lijunchang.github.io/index.html).
+I am currently a lecturer in the School of Computer Science at Sichuan Normal University. I joined Sichuan Normal University in January 2024. Prior to that, I worked as a Postdoc at the University of Sydney from March 2023 to December 2023. I obtained my Ph.D. degree from the University of Sydney in March 2023 under the supervision of [Prof. Lijun Chang](https://lijunchang.github.io/index.html). 
 
+My research interests are mainly graph data mining and graph algorithms. I have published more than ten academic papers in top-tier conferences and journals in the field of computer databases, including VLDB, ICDE, SIGMOD, VLDBJ, and TKDE. Additionally, I serve as a reviewer and program committee member for internationally renowned academic conferences and journals such as TKDE, CIKM, and DASFAA.
+
+<font color="red"> 我是红色字体 </font>
 
 Research Interests
 ======
@@ -17,18 +20,18 @@ Graph Data Mining, Graph Algorithms, Cohesive Subgraph Computation
 
 Selected Publications
 ======
-- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. The VLDB Journal (VLDBJ), 2024.
-- Lijun Chang, **Kai Yao**, Maximum k-Plex Computation: Theory and Practice. ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024.
-- **Kai Yao**, Lijun Chang, Lu Qin, Identifying Large Structural Balanced Cliques in Signed Graphs. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024.
-- Tran Ba Trung, Lijun Chang, Nguyen Long, **Kai Yao**, Verification-Free Approaches to Local Densest Subgraph Discovery. IEEE International Conference on Data Engineering (ICDE), pages 1-13, 2023.
+- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. The VLDB Journal (VLDBJ), 2024. (**CCF-A**, **Top-tier journal paper**)
+- Lijun Chang, **Kai Yao**, Maximum k-Plex Computation: Theory and Practice. ACM SIGMOD International Conference on Management of Data (SIGMOD), 2024. (**CCF-A**, **Top-tier conference paper**)
+- **Kai Yao**, Lijun Chang, Lu Qin, Identifying Large Structural Balanced Cliques in Signed Graphs. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2024. (**CCF-A**, **Top-tier journal paper**)
+- Tran Ba Trung, Lijun Chang, Nguyen Long, **Kai Yao**, Verification-Free Approaches to Local Densest Subgraph Discovery. IEEE International Conference on Data Engineering (ICDE), pages 1-13, 2023. (**CCF-A**, **Top-tier conference paper**)
 - **Kai Yao**, Xin Yang, Lijun Chang, On Directed Densest Subgraph Detection. Australasian Database Conference (ADC), 2023.
-- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. Proceedings of the VLDB Endowment (PVLDB), 15(11): 3085-3097, 2022.
-- **Kai Yao**, Lijun Chang, Lu Qin, Computing Maximum Structural Balanced Cliques in Signed Graphs. IEEE International Conference on Data Engineering (ICDE), pages 1004-1016, 2022.
-- **Kai Yao**, Lijun Chang, Efficient Size-Bounded Community Search over Large Networks. Proceedings of the VLDB Endowment (PVLDB), 14(8): 1441-1453, 2021.
-- Lijun Chang, Xing Feng, **Kai Yao**, Lu Qin, Accelerating Graph Similarity Search via Efficient GED Computation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021.
-- **Kai Yao**, Lefteris Ntaflos, Dimitris Papadias, Geo-Social Density-Based Clustering on Location Based Social Networks. International Symposium on Spatial and Temporal Databases (SSTD), pages 110-119, 2019.
-- Hermann B. Ekomie, **Kai Yao**, Jianjun Li, Guohui Li, Group Top-k Spatial Keyword Query Processing in Road Networks. International Conference on Database and Expert Systems Applications (DEXA), pages 395-408, 2017.
-- **Kai Yao**, Jianjun Li, Guohui Li, Changyin Luo, Efficient Group Top-k Spatial Keyword Query Processing. Asia-Pacific Web Conference (APWeb), pages 153-165, 2016.
+- **Kai Yao**, Lijun Chang, Jeffrey Xu Yu, Identifying Similar-Bicliques in Bipartite Graphs. Proceedings of the VLDB Endowment (PVLDB), 15(11): 3085-3097, 2022. (**CCF-A**, **Top-tier conference paper**)
+- **Kai Yao**, Lijun Chang, Lu Qin, Computing Maximum Structural Balanced Cliques in Signed Graphs. IEEE International Conference on Data Engineering (ICDE), pages 1004-1016, 2022. (**CCF-A**, **Top-tier conference paper**)
+- **Kai Yao**, Lijun Chang, Efficient Size-Bounded Community Search over Large Networks. Proceedings of the VLDB Endowment (PVLDB), 14(8): 1441-1453, 2021. (**CCF-A**, **Top-tier conference paper**)
+- Lijun Chang, Xing Feng, **Kai Yao**, Lu Qin, Accelerating Graph Similarity Search via Efficient GED Computation. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2021. (**CCF-A**, **Top-tier journal paper**)
+- **Kai Yao**, Lefteris Ntaflos, Dimitris Papadias, Geo-Social Density-Based Clustering on Location Based Social Networks. International Symposium on Spatial and Temporal Databases (SSTD), pages 110-119, 2019. (**CCF-C**)
+- Hermann B. Ekomie, **Kai Yao**, Jianjun Li, Guohui Li, Group Top-k Spatial Keyword Query Processing in Road Networks. International Conference on Database and Expert Systems Applications (DEXA), pages 395-408, 2017. (**CCF-C**)
+- **Kai Yao**, Jianjun Li, Guohui Li, Changyin Luo, Efficient Group Top-k Spatial Keyword Query Processing. Asia-Pacific Web Conference (APWeb), pages 153-165, 2016. (**CCF-C**)
 
 Academic Activities
 ======
