@@ -45,4 +45,3 @@ Awards and Hornors
 - The Engineering and Information Technologies Research Scholarship, USYD, Aug. 2019
 - Postgraduate Studentship, HKUST, Sept. 2017
 - Outstanding Graduate, HUST, Jun. 2017
-- Second Prize in “China Robot Competition” (Intelligent Transportation), Aug. 2012
