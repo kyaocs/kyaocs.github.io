@@ -11,7 +11,6 @@ I am currently a lecturer in the School of Computer Science at Sichuan Normal Un
 
 My research primarily revolves around graph data mining and graph algorithms. I have published more than ten academic papers in top-tier conferences and journals in the field of computer databases, including VLDB, ICDE, SIGMOD, VLDBJ, and TKDE. Additionally, I serve as a reviewer and program committee member for internationally renowned academic conferences and journals such as TKDE, CIKM, and DASFAA.
 
-<font color=red>Welcome enthusiastic students interested in research to join my research team.</font> I will personally mentor students in conducting high-quality academic research and provide opportunities for international exchange and further studies. Interested students please contact me (along with your resume and transcripts) via email at kyaocs@outlook.com.
 
 Research Interests
 ======
