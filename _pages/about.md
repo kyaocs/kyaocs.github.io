@@ -9,12 +9,7 @@ redirect_from:
 
 I am currently a lecturer in the School of Computer Science at Sichuan Normal University. I joined Sichuan Normal University in January 2024. Prior to that, I worked as a Postdoc at the University of Sydney from March 2023 to December 2023. I obtained my Ph.D. degree from the University of Sydney in March 2023 under the supervision of [Prof. Lijun Chang](https://lijunchang.github.io/index.html). 
 
-My research primarily revolves around graph data mining and graph algorithms. I have published more than ten academic papers in top-tier conferences and journals in the field of computer databases, including VLDB, ICDE, SIGMOD, VLDBJ, and TKDE. Additionally, I serve as a reviewer and program committee member for internationally renowned academic conferences and journals such as TKDE, CIKM, and DASFAA.
-
-
-Research Interests
-======
-Graph Data Mining, Graph Algorithms, Cohesive Subgraph Computation
+My research primarily revolves around graph data mining and management, especially cohesive subgraph computation, e.g., community search, maximal/maximum clique detection and densest subgraph discovery.
 
 
 Selected Publications
@@ -38,7 +33,7 @@ Academic Activities
 - Invited Reviewer: TKDE 2024, CIKM 2022, DASFAA 2022, ADC 2022, ACSW 2020
 - Program Committee: CIKM 2024, APWeb 2024
 
-Awards and Hornors
+Awards and Honors
 ======
 - Outstanding Ph.D. Completion Award, (18,603 AUD, 3 Recipients for 2023 at USYD), Faculty of Engineering at the University of Sydney, March 2023
 - The Engineering and Information Technologies Research Scholarship, USYD, Aug. 2019
