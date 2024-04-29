@@ -38,4 +38,3 @@ Awards and Honors
 - Outstanding Ph.D. Completion Award, (18,603 AUD, 3 Recipients for 2023 at USYD), Faculty of Engineering at the University of Sydney, March 2023
 - The Engineering and Information Technologies Research Scholarship, USYD, Aug. 2019
 - Postgraduate Studentship, HKUST, Sept. 2017
-- Outstanding Graduate, HUST, Jun. 2017
